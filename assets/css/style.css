@@ -1,0 +1,49 @@
+body.body {
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgb(19, 19, 19) 0%, rgba(93,93,93,1) 100%);
+    color: white;
+}
+
+.header {
+    background-color: rgb(17, 17, 17);
+}
+
+.header-top {
+    background-color: rgb(17, 17, 17);
+    z-index: 9999;
+}
+
+.logo {
+    height: 80px;
+}
+
+.user {
+    width: 80%;
+}
+
+.buttons {
+    width: 80%;
+}
+
+.date {
+    color: #c0c0c0bd;
+}
+
+.title {
+    width: 80%;
+}
+
+.money {
+    background: linear-gradient(90deg, rgba(255,150,0,1) 20%, rgba(106,75,31,0) 80%);
+}
+
+.money-group {
+    background: linear-gradient(90deg, rgba(255,150,0,1) 20%, rgba(106,75,31,0) 100%);
+}
+
+.chart-wrapper {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
